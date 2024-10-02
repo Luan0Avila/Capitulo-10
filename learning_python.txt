@@ -1,0 +1,6 @@
+Até o momento com o livro de Python aprendi muitas coisas como por exemplo:
+-funções
+-string
+-laços de repetição
+-classes
+-comparadores
